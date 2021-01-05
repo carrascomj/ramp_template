@@ -2,9 +2,9 @@
 [![Documentation](https://docs.rs/{{project-name}}/badge.svg)](https://docs.rs/{{project-name}}/)
 [![Build](https://github.com/carrascomj/{{project-name}}/workflows/build/badge.svg)](https://github.com/carrascomj/{{project-name}})
 
-# {{crate}}
+# {{ "{{ crate " }}}}
 
-{{readme}}
+{{ "{{ readme " }}}}
 
 ## License
 
