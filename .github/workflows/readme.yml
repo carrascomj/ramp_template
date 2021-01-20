@@ -5,6 +5,9 @@ on:
   push:
     branches:
       - trunk
+      - crates-io
+      - master
+      - main
     paths:
       - "README.tpl"
       - "**lib.rs"
